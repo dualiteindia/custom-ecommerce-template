@@ -1,0 +1,3 @@
+-- This file is used to notify PostgREST to reload the schema cache.
+-- It doesn't contain any SQL statements.
+-- The presence of this file in the migrations directory is enough to trigger the cache reload.
